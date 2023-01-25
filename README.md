@@ -2,16 +2,18 @@
 
 A basic chat application built using Flutter framework, Firebase Authentication, and Firestore..
 
-## Technologies used
+### Technologies used
 
 * Flutter for building the app's user interface
 * Firebase Authentication for user authentication and management
 * Firestore for real-time data storage and retrieval
 
-## Features
+### Features
 
 * User registration and login
 * Real-time chat with other registered users
+
+### Screenshots
 
 | SPLASH SCREEN | WELCOME PAGE | LOGIN PAGE | REGISTRATION PAGE | CHAT SCREEN |
 |----------|----------|----------|----------|----------|
