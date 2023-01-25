@@ -1,16 +1,15 @@
-# flash_chat
+# Basic Chat App Using Flutter and Firebase
 
-A new Flutter project.
+A basic chat application built using Flutter framework, Firebase Authentication, and Firestore..
 
-## Getting Started
+## Technologies used
 
-This project is a starting point for a Flutter application.
+* Flutter for building the app's user interface
+* Firebase Authentication for user authentication and management
+* Firestore for real-time data storage and retrieval
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* User registration and login
+* Real-time chat with other registered users
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
